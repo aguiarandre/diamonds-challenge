@@ -1,4 +1,4 @@
-score_diamonds.py:97 WARNING:
+score_diamonds.py:102 WARNING:
 [{'Yukari Guenka Yshida': 'Your dataframe does not have the price_predicted '
                           'variable.'},
  {'Joao Ratton': 'Your dataframe does not have the price_predicted variable.'},
