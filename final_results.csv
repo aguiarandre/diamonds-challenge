@@ -1,44 +1,11 @@
 name,username,rmse,evaluation_time
-Alvaro Camacho,ahcamachod,1177.713411063999,2020-04-15 14:26:58
-Luis,luisgzaparolli,1554.1683515838627,2020-04-15 14:27:13
-Alexandre,AlexandreUrushima,3990.479402487129,2020-04-15 14:26:58
-Marcelo,MarceloCB1977,3990.479402487129,2020-04-15 14:27:13
-Pedro Garcias,pgarcias01,3990.479402487129,2020-04-15 14:26:57
-Júlia Morais,juliamoraiss,3990.479404034558,2020-04-15 14:26:57
-Victor Farneze,vfarneze,3990.479404034558,2020-04-15 14:26:56
-victor Jackman,vijackman,3990.479404034558,2020-04-15 14:26:57
-Andre Aguiar,aguiarandre,4134.782059867242,2020-04-15 14:26:55
-Eveline - Atualizado,evefalcao,13556.74937940134,2020-04-15 14:27:14
-name,username,rmse,evaluation_time
-Alvaro Camacho,ahcamachod,1177.713411063999,2020-04-15 14:30:03
-Luis,luisgzaparolli,1554.1683515838627,2020-04-15 14:30:18
-Alexandre,AlexandreUrushima,3990.479402487129,2020-04-15 14:30:03
-Marcelo,MarceloCB1977,3990.479402487129,2020-04-15 14:30:18
-Pedro Garcias,pgarcias01,3990.479402487129,2020-04-15 14:30:02
-Júlia Morais,juliamoraiss,3990.479404034558,2020-04-15 14:30:03
-Victor Farneze,vfarneze,3990.479404034558,2020-04-15 14:30:02
-victor Jackman,vijackman,3990.479404034558,2020-04-15 14:30:02
-Andre Aguiar,aguiarandre,4134.782059867242,2020-04-15 14:30:02
-Eveline - Atualizado,evefalcao,13556.74937940134,2020-04-15 14:30:18
-name,username,rmse,evaluation_time
-Alvaro Camacho,ahcamachod,1177.713411063999,2020-04-15 14:31:26
-Luis,luisgzaparolli,1554.1683515838627,2020-04-15 14:31:41
-Alexandre,AlexandreUrushima,3990.479402487129,2020-04-15 14:31:26
-Marcelo,MarceloCB1977,3990.479402487129,2020-04-15 14:31:41
-Pedro Garcias,pgarcias01,3990.479402487129,2020-04-15 14:31:26
-Júlia Morais,juliamoraiss,3990.479404034558,2020-04-15 14:31:26
-Victor Farneze,vfarneze,3990.479404034558,2020-04-15 14:31:26
-victor Jackman,vijackman,3990.479404034558,2020-04-15 14:31:26
-Andre Aguiar,aguiarandre,4134.782059867242,2020-04-15 14:31:25
-Eveline - Atualizado,evefalcao,13556.74937940134,2020-04-15 14:31:41
-name,username,rmse,evaluation_time
-Pedro Garcias,pgarcias01,865.2395218077646,2020-04-15 14:39:34
-Victor Farneze,vfarneze,1173.8978215694597,2020-04-15 14:39:33
-Alvaro Camacho,ahcamachod,1177.713411063999,2020-04-15 14:39:34
-Luis,luisgzaparolli,1554.1683515838627,2020-04-15 14:39:49
-Alexandre,AlexandreUrushima,3990.479402487129,2020-04-15 14:39:35
-Marcelo,MarceloCB1977,3990.479402487129,2020-04-15 14:39:48
-Júlia Morais,juliamoraiss,3990.479404034558,2020-04-15 14:39:34
-victor Jackman,vijackman,3990.479404034558,2020-04-15 14:39:34
-Andre Aguiar,aguiarandre,4134.782059867242,2020-04-15 14:39:32
-Eveline - Atualizado,evefalcao,13556.74937940134,2020-04-15 14:39:49
+Pedro Garcias,pgarcias01,865.24,2020-04-15 15:02:22
+Victor Farneze,vfarneze,1173.9,2020-04-15 15:02:22
+Alvaro Camacho,ahcamachod,1177.71,2020-04-15 15:02:22
+Luis,luisgzaparolli,1554.17,2020-04-15 15:02:37
+Alexandre,AlexandreUrushima,3990.48,2020-04-15 15:02:22
+Júlia Morais,juliamoraiss,3990.48,2020-04-15 15:02:22
+Marcelo,MarceloCB1977,3990.48,2020-04-15 15:02:37
+victor Jackman,vijackman,3990.48,2020-04-15 15:02:22
+Andre Aguiar,aguiarandre,4134.78,2020-04-15 15:02:21
+Eveline - Atualizado,evefalcao,13556.75,2020-04-15 15:02:37
