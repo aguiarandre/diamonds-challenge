@@ -1,0 +1,6 @@
+score_diamonds.py:117 WARNING:
+[{'Yukari Guenka Yshida': 'You should have estimated prices for 5000 '
+                          'diamonds.'},
+ {'Joao Ratton': 'You should have estimated prices for 5000 diamonds.'},
+ {'Rafael Bazzanella': 'Your dataframe does not have the price_predicted '
+                       'variable.'}]
