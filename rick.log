@@ -1,0 +1,3 @@
+score_diamonds.py:151 WARNING:
+[{'Seong Hyun Choi': 'Your dataframe does not have the price_predicted '
+                     'variable.'}]
