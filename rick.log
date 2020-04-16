@@ -1,3 +1,2 @@
 score_diamonds.py:140 WARNING:
-[{'Rafael Bazzanella': 'Your dataframe does not have the price_predicted '
-                       'variable.'}]
+[{'Luis': 'Your dataframe does not have the price_predicted variable.'}]
