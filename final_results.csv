@@ -1,6 +1,9 @@
 name,username,rmse,evaluation_time
 Luis,luisgzaparolli,720.21,2020-04-16 01:30:22
+Luis,luisgzaparolli,743.2,2020-04-16 12:38:41
 Victor Farneze,vfarneze,793.11,2020-04-16 11:30:03
+Pedro Garcias,pgarcias01,794.2,2020-04-16 12:38:23
+Pedro Garcias 2,pgarcias01,794.2,2020-04-16 12:38:42
 Pedro Garcias,pgarcias01,811.7,2020-04-16 00:30:04
 Victor Farneze,vfarneze,818.72,2020-04-15 18:30:03
 Pedro Garcias,pgarcias01,847.64,2020-04-15 15:20:48
@@ -9,20 +12,28 @@ Pedro Garcias 2,pgarcias01,851.73,2020-04-16 10:30:26
 Júlia Morais,juliamoraiss,861.86,2020-04-16 00:30:04
 Júlia Morais,juliamoraiss,863.95,2020-04-16 10:30:05
 Pedro Garcias,pgarcias01,877.92,2020-04-15 21:30:03
+Victor Farneze,vfarneze,900.12,2020-04-16 12:38:23
+Marcelo,MarceloCB1977,954.47,2020-04-16 12:38:41
+Júlia Morais,juliamoraiss,955.33,2020-04-16 12:38:23
 Marcelo,MarceloCB1977,971.63,2020-04-16 09:14:15
+Alvaro Camacho,ahcamachod,1121.44,2020-04-16 12:38:24
 Alvaro Camacho,ahcamachod,1140.99,2020-04-16 00:30:05
 Alvaro Camacho,ahcamachod,1155.9,2020-04-15 23:30:04
+Alexandre,AlexandreUrushima,1172.21,2020-04-16 12:38:24
 Victor Farneze,vfarneze,1173.58,2020-04-15 15:20:33
 victor Jackman,vijackman,1173.58,2020-04-15 19:30:03
 Luis,luisgzaparolli,1173.77,2020-04-15 22:30:24
+victor Jackman,vijackman,1175.17,2020-04-16 12:38:23
 Alexandre,AlexandreUrushima,1177.51,2020-04-15 21:30:05
 Alvaro Camacho,ahcamachod,1177.53,2020-04-15 15:20:51
 Joao Ratton,joaoratton,1177.53,2020-04-15 15:20:51
+Eveline Falcão,evefalcao,1187.52,2020-04-16 12:38:41
 Rafael Bazzanella,rafaelbazzanella,1188.3,2020-04-15 21:30:22
 Alvaro Camacho,ahcamachod,1189.84,2020-04-16 01:30:04
 Eveline Falcão,evefalcao,1195.95,2020-04-15 23:30:22
 Eveline Falcão,evefalcao,1199.77,2020-04-15 20:30:22
 Alvaro Camacho,ahcamachod,1209.87,2020-04-16 09:13:57
+Rafael Bazzanella,rafaelbazzanella,1225.94,2020-04-16 12:38:41
 Alvaro Camacho,ahcamachod,1229.21,2020-04-15 20:30:04
 Eveline Falcão,evefalcao,1269.87,2020-04-15 22:30:24
 Júlia Morais,juliamoraiss,1269.94,2020-04-15 21:30:04
@@ -31,6 +42,7 @@ Júlia Morais,juliamoraiss,1370.14,2020-04-15 22:30:05
 Yukari Guenka Yshida,yguenka,1386.09,2020-04-16 09:13:55
 Yukari Guenka Yshida,yguenka,1490.15,2020-04-15 23:30:03
 Victor Farneze,vfarneze,1543.52,2020-04-16 09:13:55
+Yukari Guenka Yshida,yguenka,1547.53,2020-04-16 12:38:23
 Alvaro Camacho,ahcamachod,1552.15,2020-04-15 22:30:05
 Luis,luisgzaparolli,1554.87,2020-04-15 15:21:06
 Yukari Guenka Yshida,yguenka,1598.43,2020-04-15 18:30:03
@@ -43,9 +55,11 @@ Alexandre,AlexandreUrushima,4012.94,2020-04-15 15:20:51
 Júlia Morais,juliamoraiss,4012.94,2020-04-15 15:20:50
 Marcelo,MarceloCB1977,4012.94,2020-04-15 15:21:06
 victor Jackman,vijackman,4012.94,2020-04-15 15:20:33
+Andre Aguiar,aguiarandre,4088.92,2020-04-16 12:38:23
 Andre Aguiar,aguiarandre,4146.17,2020-04-15 15:20:33
 Joao Ratton,joaoratton,4259.72,2020-04-15 16:30:04
 Joao Ratton,joaoratton,5138.84,2020-04-15 18:30:05
+Joao Ratton,joaoratton,5187.91,2020-04-16 12:38:24
 Luis,luisgzaparolli,5732.63,2020-04-15 19:30:20
 Yukari Guenka Yshida,yguenka,10559.61,2020-04-15 16:30:02
 Yukari Guenka Yshida,yguenka,12513.83,2020-04-15 17:30:03
