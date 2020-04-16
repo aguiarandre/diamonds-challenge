@@ -1,2 +1,5 @@
 score_diamonds.py:149 WARNING:
-[]
+[{'Seong Hyun Choi': 'Your dataframe does not have the price_predicted '
+                     'variable.'},
+ {'Ian': 'Submission could not be handled. Check permissions or check if the '
+         'link you"ve provided is the link to the csv file on github.'}]
